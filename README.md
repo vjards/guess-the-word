@@ -13,3 +13,6 @@ An online vocabulary game for players to choose letters to guess a mystery word.
 
 - If you run out of guesses, click "Play Again" to start the game over.
 ![game-lost](https://user-images.githubusercontent.com/83617105/149812159-6c7103ab-0095-4a24-821e-b17e5c776f10.PNG)
+
+# Author
+Victoria Ards 👩🏽
