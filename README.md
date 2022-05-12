@@ -8,10 +8,10 @@ An online vocabulary game for players to choose letters to guess a mystery word.
 
 - Continue guessing letters until the mystery word is revealed.
 
-![game-won](https://user-images.githubusercontent.com/83617105/149812372-4838ce49-a7c5-4ade-bdc2-b5bc50dc8d3f.PNG)
+![game-won-2](https://user-images.githubusercontent.com/83617105/167992361-b643e469-f35e-4753-834b-62b1f7d20f58.png)
 
 
 - If you run out of guesses, click "Play Again" to start the game over.
-![game-lost](https://user-images.githubusercontent.com/83617105/149812159-6c7103ab-0095-4a24-821e-b17e5c776f10.PNG)
+![game-lost-2](https://user-images.githubusercontent.com/83617105/167992390-01f1a6b9-b237-4851-88ab-49d250010ba3.png)
 
 ## Click [here](https://vjards.github.io/guess-the-word/) to start playing now! 
