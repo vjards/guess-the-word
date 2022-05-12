@@ -1,5 +1,5 @@
 # Guess the Word
-![start-the-game](https://user-images.githubusercontent.com/83617105/149810116-bb5d8ff7-863a-49d6-bfb2-5669e4a1cf12.PNG)
+![game-start](https://user-images.githubusercontent.com/83617105/167992279-012c94c1-6854-4e47-9f15-eaec9f057b66.png)
 
 An online vocabulary game for players to choose letters to guess a mystery word. If the player solves the puzzle before they run out of guesses, they win!
 # How to Play
