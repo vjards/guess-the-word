@@ -5,6 +5,8 @@ An online vocabulary game for players to choose letters to guess a mystery word.
 # How to Play
 
 - To guess a letter, type a letter in the box and press the "guess" button.
+![letter-been-guessed](https://user-images.githubusercontent.com/83617105/167992473-767d3351-6c86-4871-8ce9-1e6408ee643b.png)
+
 
 - Continue guessing letters until the mystery word is revealed.
 
